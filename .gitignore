@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# PowerShell logs and temp files
+*.log
+*.tmp
