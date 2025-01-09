@@ -1,1 +1,1 @@
-# Windows_Script
+# AD Directory script
